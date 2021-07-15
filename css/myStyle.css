@@ -1,0 +1,42 @@
+
+body{
+  background-color: rgb(50, 82 ,136);
+   padding-left: 3px;
+   margin: 10;
+}
+
+header{
+  background-color: rgb(244, 238 ,232);
+  
+}
+
+footer{
+   background-color: rgb(245 , 206 , 190)
+}
+ section h4 {
+  background-color: rgb(245 , 206 , 190);
+}
+
+section div p{
+  background-color: rgb(245 , 206 , 190);
+  display: block;
+}
+#FirstP{
+  background-color: rgb(244, 238 ,232);
+}
+
+#SecondP{
+  background-color: rgb(244, 238 ,232);
+}
+
+#ThirdP{
+  background-color: rgb(244, 238 ,232);
+}
+
+#ForthP{
+  background-color: rgb(244, 238 ,232);
+}
+ 
+
+ 
+ 
