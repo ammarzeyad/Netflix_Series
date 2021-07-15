@@ -1,42 +1,69 @@
-
 body{
-  background-color: rgb(50, 82 ,136);
-   padding-left: 3px;
-   margin: 10;
+background-color: rgb(244, 238 ,232);
+padding-left: 3px;
+margin: 10;
 }
-
 header{
-  background-color: rgb(244, 238 ,232);
-  
-}
+background-color: rgb(245, 206 ,190);
 
+}
 footer{
-   background-color: rgb(245 , 206 , 190)
+background-color: rgb(245 , 206 , 190)
 }
- section h4 {
-  background-color: rgb(245 , 206 , 190);
+section h4 {
+background-color: rgb(245 , 206 , 190);
 }
-
 section div p{
-  background-color: rgb(245 , 206 , 190);
-  display: block;
+background-color: rgb(245 , 206 , 190);
+display: inline-block;
 }
 #FirstP{
-  background-color: rgb(244, 238 ,232);
+background-color: rgb(244, 238 ,232);
 }
-
 #SecondP{
-  background-color: rgb(244, 238 ,232);
+background-color: rgb(244, 238 ,232);
 }
-
 #ThirdP{
-  background-color: rgb(244, 238 ,232);
+background-color: rgb(244, 238 ,232);
 }
-
 #ForthP{
-  background-color: rgb(244, 238 ,232);
+background-color: rgb(245 , 206 , 190);
 }
- 
 
- 
- 
+h4 {
+display: inline-block;
+padding:30px;
+margin: 30px;
+} 
+.Box img{
+display: inline-block;
+height: 190px;
+width: 190px;
+padding:30px; 
+}
+.heders h3{
+display: inline-block;
+padding:20px;
+margin-left: 270px;
+}
+
+
+/* }
+p{
+display: inline-block;
+
+padding:50px; 
+padding-top:0; 
+height: 200px;
+width: 200px;
+
+
+
+} */
+p{
+display:block;
+
+}
+.all_par {
+margin-top: 100px;
+}
