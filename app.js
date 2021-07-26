@@ -1,3 +1,5 @@
+function main (){
+
 var name = prompt("Heyy What Is Your name ?")
 
 alert("Heey, wlecome To My Modest Website " + name)
@@ -38,3 +40,14 @@ else {
         alert('we dont have this Show')
       }
  
+}
+main ();
+var rate = 0;
+ 
+while(rate <1 || rate >5 ) {
+  rate = prompt ("How do you rate this Website out of 5 ?")
+  if(rate <1 || rate >5 ){
+  alert ("Rate it from 1 to 5 Only")
+}
+}
+alert("Thank you for Rating us " + rate + " out of 5 " ) 
